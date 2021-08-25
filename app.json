@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "hello-world",
-    "slug": "reagent-expo",
-    "privacy": "public",
+    "name": "test-app",
+    "slug": "test-app",
+    "owner": "honestdeed",
+    "privacy": "unlisted",
     "entryPoint": "./app/index.js",
     "platforms": [
       "ios",
@@ -25,6 +26,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.honestdeed.testapp"
     }
   }
 }
