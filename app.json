@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-app",
-    "slug": "test-app",
+    "name": "rn-rf-shadow",
+    "slug": "rn-rf-shadow",
     "owner": "honestdeed",
     "privacy": "unlisted",
     "entryPoint": "./app/index.js",
