@@ -4,7 +4,6 @@
     "slug": "rn-rf-shadow",
     "owner": "honestdeed",
     "privacy": "unlisted",
-    "entryPoint": "./app/index.js",
     "platforms": [
       "ios",
       "android",

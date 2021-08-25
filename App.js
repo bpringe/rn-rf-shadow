@@ -1,1 +1,0 @@
-import * as MainApp from './app/index';
