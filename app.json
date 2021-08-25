@@ -25,10 +25,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.honestdeed.testapp"
+      "bundleIdentifier": "com.honestdeed.rnrfshadow"
     },
     "android": {
-      "package": "com.honestdeed.testapp"
+      "package": "com.honestdeed.rnrfshadow"
     }
   }
 }
