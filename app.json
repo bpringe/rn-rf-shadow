@@ -1,6 +1,6 @@
 {
   "expo": {
-    "entryPoint": "app/index.js",
+    "entryPoint": "./app/index.js",
     "name": "rn-rf-shadow",
     "slug": "rn-rf-shadow",
     "owner": "honestdeed",
