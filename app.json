@@ -4,7 +4,6 @@
     "owner": "honestdeed",
     "slug": "reagent-expo",
     "privacy": "public",
-    "entryPoint": "./app/index.js",
     "platforms": [
       "ios",
       "android",
