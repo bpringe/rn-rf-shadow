@@ -1,5 +1,5 @@
 {
-  "main": "app/index.js",
+  "main": "index.js",
   "scripts": {
     "server": "npx shadow-cljs server",
     "start": "npx expo start",
