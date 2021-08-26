@@ -1,0 +1,11 @@
+{
+  "build": {
+    "release": {},
+    "development": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
