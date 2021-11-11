@@ -2,6 +2,7 @@
   "expo": {
     "name": "hello-world",
     "slug": "reagent-expo",
+    "owner": "honestdeed",
     "privacy": "public",
     "platforms": [
       "ios",
